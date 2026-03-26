@@ -1,6 +1,7 @@
 package javaVariables;
 
-public class Main {
+public class VariableBasicunderstand {
+
     public static void main(String[] args) {
         int firstNumber = 100;
         int secondNumber = 500;
