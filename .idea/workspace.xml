@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15cd7575-0860-4964-bbff-93c1b9a546f4" name="Changes" comment="Initial Commit">
+    <list default="true" id="15cd7575-0860-4964-bbff-93c1b9a546f4" name="Changes" comment="class name modified">
+      <change afterPath="$PROJECT_DIR$/src/javaVariables/FinalVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaVariables/InstanceVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaVariables/StaticVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primitiveDataTypes/BooleanType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primitiveDataTypes/CharType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primitiveDataTypes/DecimalType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primitiveDataTypes/WholeNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaVariables/VariableBasicunderstand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaVariables/VariableBasicunderstand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nonPrimitiveType/classType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nonPrimitiveType/classType.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,11 +29,16 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="3BU6DQw3SYN87XwPfcwja2TK8gK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -35,41 +49,101 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayWorkouts.executor": "Run",
+    "Application.BooleanType.executor": "Run",
+    "Application.CharType.executor": "Run",
+    "Application.DecimalType.executor": "Run",
     "Application.Demo.executor": "Run",
+    "Application.Demoprogram.executor": "Run",
+    "Application.FinalVariable.executor": "Run",
+    "Application.FirstProgram.executor": "Run",
+    "Application.InstanceVariable.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.StaticVariable.executor": "Run",
+    "Application.StringDataType.executor": "Run",
+    "Application.VariableBasicunderstand.executor": "Run",
+    "Application.WholeNumbers.executor": "Run",
+    "Application.classType.executor": "Run",
+    "Application.javaVariables.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "java-unit1",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/credo-java-course/core-java-course/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Demoprogram">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo" />
+  <component name="RunManager" selected="Application.classType">
+    <configuration name="ArrayWorkouts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nonPrimitiveType.ArrayWorkouts" />
       <module name="core-java-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nonPrimitiveType.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demoprogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demoprogram" />
+    <configuration name="BooleanType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primitiveDataTypes.BooleanType" />
       <module name="core-java-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="primitiveDataTypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="CharType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primitiveDataTypes.CharType" />
       <module name="core-java-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="primitiveDataTypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringDataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nonPrimitiveType.StringDataType" />
+      <module name="core-java-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nonPrimitiveType.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="classType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nonPrimitiveType.classType" />
+      <module name="core-java-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nonPrimitiveType.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demoprogram" />
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.classType" />
+        <item itemvalue="Application.ArrayWorkouts" />
+        <item itemvalue="Application.StringDataType" />
+        <item itemvalue="Application.CharType" />
+        <item itemvalue="Application.BooleanType" />
       </list>
     </recent_temporary>
   </component>
@@ -90,11 +164,85 @@
       <option name="project" value="LOCAL" />
       <updated>1774531438977</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Demo program added">
+      <option name="closed" value="true" />
+      <created>1774532245514</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774532245514</updated>
+    </task>
+    <task id="LOCAL-00003" summary="demo program updated">
+      <option name="closed" value="true" />
+      <created>1774532509639</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1774532509639</updated>
+    </task>
+    <task id="LOCAL-00004" summary="demo program updated firstname">
+      <option name="closed" value="true" />
+      <created>1774532536639</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1774532536639</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Remove from programs">
+      <option name="closed" value="true" />
+      <created>1774532759945</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1774532759945</updated>
+    </task>
+    <task id="LOCAL-00006" summary="First Hello world program">
+      <option name="closed" value="true" />
+      <created>1774532901299</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1774532901299</updated>
+    </task>
+    <task id="LOCAL-00007" summary="variable basics">
+      <option name="closed" value="true" />
+      <created>1774533424241</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1774533424241</updated>
+    </task>
+    <task id="LOCAL-00008" summary="class name modified">
+      <option name="closed" value="true" />
+      <created>1774533573466</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1774533573466</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Demo program added" />
+    <MESSAGE value="demo program updated" />
+    <MESSAGE value="demo program updated firstname" />
+    <MESSAGE value="Remove from programs" />
+    <MESSAGE value="First Hello world program" />
+    <MESSAGE value="variable basics" />
+    <MESSAGE value="class name modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="class name modified" />
   </component>
 </project>
