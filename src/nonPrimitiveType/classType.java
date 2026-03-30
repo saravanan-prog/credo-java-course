@@ -1,6 +1,7 @@
 package nonPrimitiveType;
 
-class Student{
+class Student {
+
     int rollNumber = 25;
     String studentName  = "vimalRaj";
     String studentLastName = "Magesh";
@@ -14,6 +15,7 @@ public class classType {
     public static void main(String[] args) {
 
         Student obj = new Student();
+
         System.out.println("student Roll Number ===>" + obj.rollNumber);
         System.out.println("student Name ===>" + obj.studentName);
         System.out.println("student LastName ===>" + obj.studentLastName);

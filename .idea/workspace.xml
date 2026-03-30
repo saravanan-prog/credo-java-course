@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15cd7575-0860-4964-bbff-93c1b9a546f4" name="Changes" comment="class name modified">
-      <change afterPath="$PROJECT_DIR$/src/javaVariables/FinalVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaVariables/InstanceVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaVariables/StaticVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/primitiveDataTypes/BooleanType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/primitiveDataTypes/CharType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/primitiveDataTypes/DecimalType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/primitiveDataTypes/WholeNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaVariables/VariableBasicunderstand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaVariables/VariableBasicunderstand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/nonPrimitiveType/classType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nonPrimitiveType/classType.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +41,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArithmeticOperator.executor": "Run",
     "Application.ArrayWorkouts.executor": "Run",
+    "Application.AssignmentOperator.executor": "Run",
+    "Application.BitwiseOperator.executor": "Run",
     "Application.BooleanType.executor": "Run",
     "Application.CharType.executor": "Run",
     "Application.DecimalType.executor": "Run",
@@ -57,10 +52,15 @@
     "Application.Demoprogram.executor": "Run",
     "Application.FinalVariable.executor": "Run",
     "Application.FirstProgram.executor": "Run",
+    "Application.ImplictCasting.executor": "Run",
     "Application.InstanceVariable.executor": "Run",
+    "Application.LogicalOperator.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.RelationalOperator.executor": "Run",
     "Application.StaticVariable.executor": "Run",
     "Application.StringDataType.executor": "Run",
+    "Application.TernaryOperator.executor": "Run",
+    "Application.UninaryOperator.executor": "Run",
     "Application.VariableBasicunderstand.executor": "Run",
     "Application.WholeNumbers.executor": "Run",
     "Application.classType.executor": "Run",
@@ -71,13 +71,13 @@
     "onboarding.tips.debug.path": "C:/credo-java-course/core-java-course/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.classType">
-    <configuration name="ArrayWorkouts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nonPrimitiveType.ArrayWorkouts" />
+  <component name="RunManager" selected="Application.ImplictandExplicitconversation">
+    <configuration name="AssignmentOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaOperators.AssignmentOperator" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nonPrimitiveType.*" />
+          <option name="PATTERN" value="javaOperators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BooleanType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="primitiveDataTypes.BooleanType" />
+    <configuration name="BitwiseOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaOperators.BitwiseOperator" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="primitiveDataTypes.*" />
+          <option name="PATTERN" value="javaOperators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="primitiveDataTypes.CharType" />
+    <configuration name="ImplictandExplicitconversation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TypeCasting.ImplictandExplicitconversation" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="primitiveDataTypes.*" />
+          <option name="PATTERN" value="TypeCasting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringDataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nonPrimitiveType.StringDataType" />
+    <configuration name="TernaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaOperators.TernaryOperator" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nonPrimitiveType.*" />
+          <option name="PATTERN" value="javaOperators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="classType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nonPrimitiveType.classType" />
+    <configuration name="UninaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaOperators.UninaryOperator" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nonPrimitiveType.*" />
+          <option name="PATTERN" value="javaOperators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.classType" />
-        <item itemvalue="Application.ArrayWorkouts" />
-        <item itemvalue="Application.StringDataType" />
-        <item itemvalue="Application.CharType" />
-        <item itemvalue="Application.BooleanType" />
+        <item itemvalue="Application.ImplictandExplicitconversation" />
+        <item itemvalue="Application.BitwiseOperator" />
+        <item itemvalue="Application.TernaryOperator" />
+        <item itemvalue="Application.UninaryOperator" />
+        <item itemvalue="Application.AssignmentOperator" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774533573466</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="class name modified">
+      <option name="closed" value="true" />
+      <created>1774621900808</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1774621900808</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
