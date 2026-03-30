@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15cd7575-0860-4964-bbff-93c1b9a546f4" name="Changes" comment="operators and typecasting workout">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaConditons/Ifelseconditon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConditons/Ifelseconditon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaConditons/NestedIFconditon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConditons/NestedIFconditon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaOperators/ArithmeticOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOperators/ArithmeticOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaOperators/AssignmentOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOperators/AssignmentOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaOperators/BitwiseOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOperators/BitwiseOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaOperators/LogicalOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOperators/LogicalOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaOperators/RelationalOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOperators/RelationalOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaOperators/TernaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOperators/TernaryOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaOperators/UninaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOperators/UninaryOperator.java" afterDir="false" />
-    </list>
+    <list default="true" id="15cd7575-0860-4964-bbff-93c1b9a546f4" name="Changes" comment="Content-udpate" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -244,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774880518039</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Content-udpate">
+      <option name="closed" value="true" />
+      <created>1774902425589</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1774902425589</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -268,7 +265,8 @@
     <MESSAGE value="variable basics" />
     <MESSAGE value="class name modified" />
     <MESSAGE value="operators and typecasting workout" />
-    <option name="LAST_COMMIT_MESSAGE" value="operators and typecasting workout" />
+    <MESSAGE value="Content-udpate" />
+    <option name="LAST_COMMIT_MESSAGE" value="Content-udpate" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
