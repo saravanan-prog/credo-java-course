@@ -1,4 +1,4 @@
-package primitiveDataTypes;
+package PrimitiveDataTypes;
 
 public class BooleanType {
     public static void main(String[] args) {

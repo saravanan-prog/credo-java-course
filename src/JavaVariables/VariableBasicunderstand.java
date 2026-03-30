@@ -1,4 +1,4 @@
-package javaVariables;
+package JavaVariables;
 
 public class VariableBasicunderstand {
 

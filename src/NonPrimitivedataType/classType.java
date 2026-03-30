@@ -1,4 +1,4 @@
-package nonPrimitiveType;
+package NonPrimitivedataType;
 
 class Student {
 

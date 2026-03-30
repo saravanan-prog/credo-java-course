@@ -1,4 +1,4 @@
-package javaVariables;
+package JavaVariables;
 
 public class StaticVariable {
     static int firstNumber = 100;

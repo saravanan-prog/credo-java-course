@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15cd7575-0860-4964-bbff-93c1b9a546f4" name="Changes" comment="class name modified">
+    <list default="true" id="15cd7575-0860-4964-bbff-93c1b9a546f4" name="Changes" comment="operators and typecasting workout">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nonPrimitiveType/classType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nonPrimitiveType/classType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaConditons/Ifelseconditon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConditons/Ifelseconditon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaConditons/NestedIFconditon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConditons/NestedIFconditon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaOperators/ArithmeticOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOperators/ArithmeticOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaOperators/AssignmentOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOperators/AssignmentOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaOperators/BitwiseOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOperators/BitwiseOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaOperators/LogicalOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOperators/LogicalOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaOperators/RelationalOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOperators/RelationalOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaOperators/TernaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOperators/TernaryOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaOperators/UninaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOperators/UninaryOperator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,13 +79,13 @@
     "onboarding.tips.debug.path": "C:/credo-java-course/core-java-course/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ImplictandExplicitconversation">
-    <configuration name="AssignmentOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaOperators.AssignmentOperator" />
+  <component name="RunManager" selected="Application.ArithmeticOperator">
+    <configuration name="ArithmeticOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaOperators.ArithmeticOperator" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaOperators.*" />
+          <option name="PATTERN" value="JavaOperators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,11 +94,11 @@
       </method>
     </configuration>
     <configuration name="BitwiseOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaOperators.BitwiseOperator" />
+      <option name="MAIN_CLASS_NAME" value="JavaOperators.BitwiseOperator" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaOperators.*" />
+          <option name="PATTERN" value="JavaOperators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +120,11 @@
       </method>
     </configuration>
     <configuration name="TernaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaOperators.TernaryOperator" />
+      <option name="MAIN_CLASS_NAME" value="JavaOperators.TernaryOperator" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaOperators.*" />
+          <option name="PATTERN" value="JavaOperators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +133,11 @@
       </method>
     </configuration>
     <configuration name="UninaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaOperators.UninaryOperator" />
+      <option name="MAIN_CLASS_NAME" value="JavaOperators.UninaryOperator" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaOperators.*" />
+          <option name="PATTERN" value="JavaOperators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArithmeticOperator" />
         <item itemvalue="Application.ImplictandExplicitconversation" />
         <item itemvalue="Application.BitwiseOperator" />
         <item itemvalue="Application.TernaryOperator" />
         <item itemvalue="Application.UninaryOperator" />
-        <item itemvalue="Application.AssignmentOperator" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774621900808</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="operators and typecasting workout">
+      <option name="closed" value="true" />
+      <created>1774880518038</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1774880518039</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -251,6 +267,22 @@
     <MESSAGE value="First Hello world program" />
     <MESSAGE value="variable basics" />
     <MESSAGE value="class name modified" />
-    <option name="LAST_COMMIT_MESSAGE" value="class name modified" />
+    <MESSAGE value="operators and typecasting workout" />
+    <option name="LAST_COMMIT_MESSAGE" value="operators and typecasting workout" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/TypeCasting/ImplictandExplicitconversation.java</url>
+          <line>3</line>
+          <properties class="TypeCasting.ImplictandExplicitconversation" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

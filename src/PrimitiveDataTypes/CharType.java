@@ -1,4 +1,4 @@
-package primitiveDataTypes;
+package PrimitiveDataTypes;
 
 public class CharType {
     public static void main(String[] args) {

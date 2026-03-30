@@ -1,4 +1,4 @@
-package primitiveDataTypes;
+package PrimitiveDataTypes;
 
 public class DecimalType {
     // precision value called decimal type

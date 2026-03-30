@@ -1,4 +1,4 @@
-package nonPrimitiveType;
+package NonPrimitivedataType;
 
 public class ArrayWorkouts {
     public static void main(String[] args) {
