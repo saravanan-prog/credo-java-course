@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15cd7575-0860-4964-bbff-93c1b9a546f4" name="Changes" comment="Content-udpate" />
+    <list default="true" id="15cd7575-0860-4964-bbff-93c1b9a546f4" name="Changes" comment="Content-udpate">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaConditons/IfElseLadder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConditons/IfElseLadder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaConditons/IfStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConditons/IfStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaConditons/IfelseStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConditons/IfelseStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaConditons/NestedifStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConditons/NestedifStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaConditons/Switchstatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConditons/Switchstatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaLoops/BreakStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaLoops/BreakStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaLoops/DoWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaLoops/DoWhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaLoops/EnhancedLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaLoops/EnhancedLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaLoops/NestedForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaLoops/NestedForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaLoops/WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaLoops/WhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaLoops/forLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaLoops/forLoop.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,24 +56,34 @@
     "Application.AssignmentOperator.executor": "Run",
     "Application.BitwiseOperator.executor": "Run",
     "Application.BooleanType.executor": "Run",
+    "Application.BreakStatement.executor": "Run",
     "Application.CharType.executor": "Run",
     "Application.DecimalType.executor": "Run",
     "Application.Demo.executor": "Run",
     "Application.Demoprogram.executor": "Run",
+    "Application.DoWhileLoop.executor": "Run",
+    "Application.EnhancedLoop.executor": "Run",
     "Application.FinalVariable.executor": "Run",
     "Application.FirstProgram.executor": "Run",
+    "Application.IfElseLadder.executor": "Run",
+    "Application.IfStatement.executor": "Run",
+    "Application.IfelseStatement.executor": "Run",
     "Application.ImplictCasting.executor": "Run",
     "Application.InstanceVariable.executor": "Run",
     "Application.LogicalOperator.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.NestedForLoop.executor": "Run",
+    "Application.NestedifStatement.executor": "Run",
     "Application.RelationalOperator.executor": "Run",
     "Application.StaticVariable.executor": "Run",
     "Application.StringDataType.executor": "Run",
     "Application.TernaryOperator.executor": "Run",
     "Application.UninaryOperator.executor": "Run",
     "Application.VariableBasicunderstand.executor": "Run",
+    "Application.WhileLoop.executor": "Run",
     "Application.WholeNumbers.executor": "Run",
     "Application.classType.executor": "Run",
+    "Application.forLoop.executor": "Run",
     "Application.javaVariables.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "java-unit1",
@@ -68,13 +91,13 @@
     "onboarding.tips.debug.path": "C:/credo-java-course/core-java-course/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArithmeticOperator">
-    <configuration name="ArithmeticOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaOperators.ArithmeticOperator" />
+  <component name="RunManager" selected="Application.ContinueStatement">
+    <configuration name="BreakStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaLoops.BreakStatement" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaOperators.*" />
+          <option name="PATTERN" value="JavaLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BitwiseOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaOperators.BitwiseOperator" />
+    <configuration name="ContinueStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaLoops.ContinueStatement" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaOperators.*" />
+          <option name="PATTERN" value="JavaLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImplictandExplicitconversation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TypeCasting.ImplictandExplicitconversation" />
+    <configuration name="EnhancedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaLoops.EnhancedLoop" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TypeCasting.*" />
+          <option name="PATTERN" value="JavaLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TernaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaOperators.TernaryOperator" />
+    <configuration name="NestedForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaLoops.NestedForLoop" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaOperators.*" />
+          <option name="PATTERN" value="JavaLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UninaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaOperators.UninaryOperator" />
+    <configuration name="forLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaLoops.forLoop" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaOperators.*" />
+          <option name="PATTERN" value="JavaLoops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArithmeticOperator" />
-        <item itemvalue="Application.ImplictandExplicitconversation" />
-        <item itemvalue="Application.BitwiseOperator" />
-        <item itemvalue="Application.TernaryOperator" />
-        <item itemvalue="Application.UninaryOperator" />
+        <item itemvalue="Application.ContinueStatement" />
+        <item itemvalue="Application.BreakStatement" />
+        <item itemvalue="Application.NestedForLoop" />
+        <item itemvalue="Application.EnhancedLoop" />
+        <item itemvalue="Application.forLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774902425589</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Content-udpate">
+      <option name="closed" value="true" />
+      <created>1774902549292</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1774902549292</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -279,6 +310,20 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/JavaLoops/EnhancedLoop.java</url>
+          <line>3</line>
+          <properties class="JavaLoops.EnhancedLoop" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaLoops/WhileLoop.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
