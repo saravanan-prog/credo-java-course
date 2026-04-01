@@ -6,17 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="15cd7575-0860-4964-bbff-93c1b9a546f4" name="Changes" comment="Content-udpate">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaConditons/IfElseLadder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConditons/IfElseLadder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaConditons/IfStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConditons/IfStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaConditons/IfelseStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConditons/IfelseStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaConditons/NestedifStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConditons/NestedifStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaConditons/Switchstatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaConditons/Switchstatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaLoops/BreakStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaLoops/BreakStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaLoops/DoWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaLoops/DoWhileLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaLoops/EnhancedLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaLoops/EnhancedLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaLoops/NestedForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaLoops/NestedForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaLoops/WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaLoops/WhileLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaLoops/forLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaLoops/forLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +40,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AdditonMatrix.executor": "Run",
     "Application.ArithmeticOperator.executor": "Run",
     "Application.ArrayWorkouts.executor": "Run",
     "Application.AssignmentOperator.executor": "Run",
     "Application.BitwiseOperator.executor": "Run",
     "Application.BooleanType.executor": "Run",
     "Application.BreakStatement.executor": "Run",
+    "Application.Calculator.executor": "Run",
     "Application.CharType.executor": "Run",
+    "Application.ContinueStatement.executor": "Run",
     "Application.DecimalType.executor": "Run",
     "Application.Demo.executor": "Run",
     "Application.Demoprogram.executor": "Run",
@@ -72,12 +64,15 @@
     "Application.InstanceVariable.executor": "Run",
     "Application.LogicalOperator.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MultiDimensionalArray.executor": "Run",
     "Application.NestedForLoop.executor": "Run",
     "Application.NestedifStatement.executor": "Run",
+    "Application.OneDiemensionalArray.executor": "Run",
     "Application.RelationalOperator.executor": "Run",
     "Application.StaticVariable.executor": "Run",
     "Application.StringDataType.executor": "Run",
     "Application.TernaryOperator.executor": "Run",
+    "Application.Twocrossthree.executor": "Run",
     "Application.UninaryOperator.executor": "Run",
     "Application.VariableBasicunderstand.executor": "Run",
     "Application.WhileLoop.executor": "Run",
@@ -91,13 +86,13 @@
     "onboarding.tips.debug.path": "C:/credo-java-course/core-java-course/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ContinueStatement">
-    <configuration name="BreakStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaLoops.BreakStatement" />
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="AdditonMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaArrays.AdditonMatrix" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaLoops.*" />
+          <option name="PATTERN" value="JavaArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContinueStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaLoops.ContinueStatement" />
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaMethods.Calculator" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaLoops.*" />
+          <option name="PATTERN" value="JavaMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnhancedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaLoops.EnhancedLoop" />
+    <configuration name="MultiDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaArrays.MultiDimensionalArray" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaLoops.*" />
+          <option name="PATTERN" value="JavaArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaLoops.NestedForLoop" />
+    <configuration name="OneDiemensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaArrays.OneDiemensionalArray" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaLoops.*" />
+          <option name="PATTERN" value="JavaArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="forLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaLoops.forLoop" />
+    <configuration name="Twocrossthree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaArrays.Twocrossthree" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaLoops.*" />
+          <option name="PATTERN" value="JavaArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ContinueStatement" />
-        <item itemvalue="Application.BreakStatement" />
-        <item itemvalue="Application.NestedForLoop" />
-        <item itemvalue="Application.EnhancedLoop" />
-        <item itemvalue="Application.forLoop" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.AdditonMatrix" />
+        <item itemvalue="Application.MultiDimensionalArray" />
+        <item itemvalue="Application.Twocrossthree" />
+        <item itemvalue="Application.OneDiemensionalArray" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774902549292</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Content-udpate">
+      <option name="closed" value="true" />
+      <created>1774966630934</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1774966630934</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
