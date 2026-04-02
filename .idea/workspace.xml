@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="15cd7575-0860-4964-bbff-93c1b9a546f4" name="Changes" comment="Content-udpate">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMethods/EmployeeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaMethods/EmployeeMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaMethods/Methods.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +46,7 @@
     "Application.ArithmeticOperator.executor": "Run",
     "Application.ArrayWorkouts.executor": "Run",
     "Application.AssignmentOperator.executor": "Run",
+    "Application.BasicFunctionLearning.executor": "Run",
     "Application.BitwiseOperator.executor": "Run",
     "Application.BooleanType.executor": "Run",
     "Application.BreakStatement.executor": "Run",
@@ -54,9 +57,11 @@
     "Application.Demo.executor": "Run",
     "Application.Demoprogram.executor": "Run",
     "Application.DoWhileLoop.executor": "Run",
+    "Application.EmployeeMain.executor": "Run",
     "Application.EnhancedLoop.executor": "Run",
     "Application.FinalVariable.executor": "Run",
     "Application.FirstProgram.executor": "Run",
+    "Application.GeneralFunctionLearning.executor": "Run",
     "Application.IfElseLadder.executor": "Run",
     "Application.IfStatement.executor": "Run",
     "Application.IfelseStatement.executor": "Run",
@@ -68,6 +73,8 @@
     "Application.NestedForLoop.executor": "Run",
     "Application.NestedifStatement.executor": "Run",
     "Application.OneDiemensionalArray.executor": "Run",
+    "Application.ParameterizedFunction.executor": "Run",
+    "Application.ParameterizedMethod.executor": "Run",
     "Application.RelationalOperator.executor": "Run",
     "Application.StaticVariable.executor": "Run",
     "Application.StringDataType.executor": "Run",
@@ -86,22 +93,9 @@
     "onboarding.tips.debug.path": "C:/credo-java-course/core-java-course/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Calculator">
-    <configuration name="AdditonMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaArrays.AdditonMatrix" />
-      <module name="core-java-course" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaArrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaMethods.Calculator" />
+  <component name="RunManager" selected="Application.EmployeeMain">
+    <configuration name="BasicFunctionLearning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaMethods.BasicFunctionLearning" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
@@ -113,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaArrays.MultiDimensionalArray" />
+    <configuration name="EmployeeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaMethods.EmployeeMain" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaArrays.*" />
+          <option name="PATTERN" value="JavaMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OneDiemensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaArrays.OneDiemensionalArray" />
+    <configuration name="GeneralFunctionLearning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaMethods.GeneralFunctionLearning" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaArrays.*" />
+          <option name="PATTERN" value="JavaMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +133,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Twocrossthree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaArrays.Twocrossthree" />
+    <configuration name="ParameterizedFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaMethods.ParameterizedFunction" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaArrays.*" />
+          <option name="PATTERN" value="JavaMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParameterizedMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaMethods.ParameterizedMethod" />
+      <module name="core-java-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.AdditonMatrix" />
-        <item itemvalue="Application.MultiDimensionalArray" />
-        <item itemvalue="Application.Twocrossthree" />
-        <item itemvalue="Application.OneDiemensionalArray" />
+        <item itemvalue="Application.EmployeeMain" />
+        <item itemvalue="Application.ParameterizedFunction" />
+        <item itemvalue="Application.BasicFunctionLearning" />
+        <item itemvalue="Application.GeneralFunctionLearning" />
+        <item itemvalue="Application.ParameterizedMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -275,7 +282,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774966630934</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Content-udpate">
+      <option name="closed" value="true" />
+      <created>1775052713550</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1775052713550</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
