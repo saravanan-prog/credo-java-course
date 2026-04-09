@@ -1,4 +1,4 @@
-package Inheritance.multiLevel.Example2;
+package C_Inheritance.singelLevel.Example2;
 
 class Husband{
     String husbandName;
@@ -19,38 +19,24 @@ class Wife extends Husband {
     int wifeSalary;
 
     public Wife(String husbandName, int hubandSalary, String wifeName, int wifeSalary) {
-        super(husbandName, hubandSalary);
+        super(husbandName, hubandSalary); /* super() is used to call the parent class constructor */
         this.wifeName = wifeName;
         this.wifeSalary = wifeSalary;
-
     }
 
     void displayWifetDetails() {
         System.out.println("wife name ===> " + this.wifeName + " wife Salary===>" + this.wifeSalary);
     }
-    double bothAveregeSalary(){
-        return this.hubandSalary + this.wifeSalary / 2;
-    }
 }
-
-class Childrens extends Wife{
-
-    public Childrens(String husbandName, int hubandSalary, String wifeName, int wifeSalary) {
-        super(husbandName, hubandSalary, wifeName, wifeSalary);
-    }
-
-    void print(){
-        System.out.println("i am childrens");
-    }
-}
-
+/*
+ * Single-level-inheritance : one base class and one derieved class
+ */
 
 public class Main {
     public static void main(String[] args) {
-        Childrens obj = new Childrens("Rajesh", 50000, "kavitha", 25000);
+        Wife obj = new Wife("Rajesh", 50000, "kavitha", 25000);
         obj.displayHusbandDetails();
         obj.displayWifetDetails();
-
-        System.out.println("both Average Salary ===>" + obj.bothAveregeSalary());
     }
+
 }

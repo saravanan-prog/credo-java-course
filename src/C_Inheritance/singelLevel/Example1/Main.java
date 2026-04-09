@@ -1,4 +1,4 @@
-package Inheritance.singelLevel.Example1;
+package C_Inheritance.singelLevel.Example1;
 
 class A {
     void printA(){

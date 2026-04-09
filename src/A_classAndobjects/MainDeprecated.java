@@ -1,6 +1,4 @@
-package ClassandObjects;
-
-import java.rmi.StubNotFoundException;
+package A_classAndobjects;
 
 @Deprecated
 class Student {
