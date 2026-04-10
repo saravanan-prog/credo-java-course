@@ -6,13 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="15cd7575-0860-4964-bbff-93c1b9a546f4" name="Changes" comment="Initial Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClassandObjects/MainDeprecated.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A_classAndobjects/MainDeprecated.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/hierarical/Example1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Inheritance/hierarical/Example1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/hierarical/Example2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Inheritance/hierarical/Example2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/multiLevel/Example1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Inheritance/multiLevel/Example1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/multiLevel/Example2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Inheritance/multiLevel/Example2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/singelLevel/Example1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Inheritance/singelLevel/Example1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/singelLevel/Example2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Inheritance/singelLevel/Example2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C_Inheritance/hierarical/Example1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Inheritance/c_hierarical/Example1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C_Inheritance/hierarical/Example2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Inheritance/c_hierarical/Example2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C_Inheritance/multiLevel/Example1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Inheritance/b_multiLevel/Example1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C_Inheritance/multiLevel/Example2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Inheritance/b_multiLevel/Example2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C_Inheritance/singelLevel/Example1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Inheritance/a_singelLevel/Example1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C_Inheritance/singelLevel/Example2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C_Inheritance/a_singelLevel/Example2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,11 @@
     "Application.BasicClassunderstand.executor": "Run",
     "Application.ClassandObjects.innerclass.Main.executor": "Run",
     "Application.ConstructorBasicUnderStand.executor": "Run",
+    "Application.D_Abstraction.example1.Main.executor": "Run",
+    "Application.D_Abstraction.example2.Main.executor": "Run",
     "Application.Demo.executor": "Run",
+    "Application.E_Interface.example1.Main.executor": "Run",
+    "Application.E_Interface.example2.Main.executor": "Run",
     "Application.Encapsulation.Main.executor": "Run",
     "Application.Inheritance.multiLevel.Example2.Main.executor": "Run",
     "Application.Inheritance.multiLevel.Main.executor": "Run",
@@ -59,13 +62,13 @@
     "onboarding.tips.debug.path": "C:/credo-java-course/core-java-course/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="C_Inheritance.multiLevel.Example1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_Inheritance.multiLevel.Example1.Main" />
+  <component name="RunManager" selected="Application.E_Interface.example2.Main">
+    <configuration name="D_Abstraction.example1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D_Abstraction.example1.Main" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_Inheritance.multiLevel.Example1.*" />
+          <option name="PATTERN" value="D_Abstraction.example1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C_Inheritance.multiLevel.Example2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_Inheritance.multiLevel.Example2.Main" />
+    <configuration name="D_Abstraction.example2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D_Abstraction.example2.Main" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_Inheritance.multiLevel.Example2.*" />
+          <option name="PATTERN" value="D_Abstraction.example2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C_Inheritance.singelLevel.Example1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_Inheritance.singelLevel.Example1.Main" />
+    <configuration name="E_Interface.example1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E_Interface.example1.Main" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_Inheritance.singelLevel.Example1.*" />
+          <option name="PATTERN" value="E_Interface.example1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C_Inheritance.singelLevel.Example2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_Inheritance.singelLevel.Example2.Main" />
+    <configuration name="E_Interface.example2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E_Interface.example2.Main" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_Inheritance.singelLevel.Example2.*" />
+          <option name="PATTERN" value="E_Interface.example2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +116,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_Inheritance.hierarical.Example2.Main" />
+      <option name="MAIN_CLASS_NAME" value="C_Inheritance.c_hierarical.Example2.Main" />
       <module name="core-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_Inheritance.hierarical.Example2.*" />
+          <option name="PATTERN" value="C_Inheritance.c_hierarical.Example2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E_Interface.example2.Main" />
+        <item itemvalue="Application.E_Interface.example1.Main" />
+        <item itemvalue="Application.D_Abstraction.example1.Main" />
+        <item itemvalue="Application.D_Abstraction.example2.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.C_Inheritance.multiLevel.Example2.Main" />
-        <item itemvalue="Application.C_Inheritance.singelLevel.Example1.Main" />
-        <item itemvalue="Application.C_Inheritance.multiLevel.Example1.Main" />
-        <item itemvalue="Application.C_Inheritance.singelLevel.Example2.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775744656516</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1775767520091</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1775767520091</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -171,24 +182,33 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/C_Inheritance/multiLevel/Example2/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/C_Inheritance/b_multiLevel/Example2/Main.java</url>
           <line>16</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/C_Inheritance/multiLevel/Example2/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/C_Inheritance/b_multiLevel/Example2/Main.java</url>
           <line>35</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/C_Inheritance/hierarical/Example1/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/C_Inheritance/c_hierarical/Example1/Main.java</url>
           <line>14</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/C_Inheritance/singelLevel/Example2/Main.java</url>
-          <line>2</line>
-          <option name="timeStamp" value="5" />
+        <line-breakpoint enabled="true" log-message="true" suspend="NONE" type="java-line">
+          <url>file://$PROJECT_DIR$/src/E_Interface/example2/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/E_Interface/example2/Main.java</url>
+          <line>22</line>
+          <properties class="E_Interface.example2.Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

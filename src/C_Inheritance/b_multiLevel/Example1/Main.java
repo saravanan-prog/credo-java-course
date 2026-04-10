@@ -1,4 +1,4 @@
-package C_Inheritance.multiLevel.Example1;
+package C_Inheritance.b_multiLevel.Example1;
 
 class A {
 

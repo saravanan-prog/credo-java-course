@@ -1,4 +1,4 @@
-package C_Inheritance.hierarical.Example1;
+package C_Inheritance.c_hierarical.Example1;
 
 class BaseClass {
     void basePrint(){

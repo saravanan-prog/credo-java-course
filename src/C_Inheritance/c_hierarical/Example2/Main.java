@@ -1,4 +1,4 @@
-package C_Inheritance.hierarical.Example2;
+package C_Inheritance.c_hierarical.Example2;
 
 class Birds{
     String birdName;

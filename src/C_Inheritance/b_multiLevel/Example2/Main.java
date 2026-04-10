@@ -1,4 +1,4 @@
-package C_Inheritance.multiLevel.Example2;
+package C_Inheritance.b_multiLevel.Example2;
 
 class Husband{
     String husbandName;

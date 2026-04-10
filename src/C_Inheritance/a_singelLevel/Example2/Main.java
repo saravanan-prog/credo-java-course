@@ -1,4 +1,4 @@
-package C_Inheritance.singelLevel.Example2;
+package C_Inheritance.a_singelLevel.Example2;
 
 class Husband{
     String husbandName;
