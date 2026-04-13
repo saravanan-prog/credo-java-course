@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15cd7575-0860-4964-bbff-93c1b9a546f4" name="Changes" comment="oops">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="15cd7575-0860-4964-bbff-93c1b9a546f4" name="Changes" comment="oops" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,30 +31,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BasicClassunderstand.executor": "Run",
-    "Application.ClassandObjects.innerclass.Main.executor": "Run",
-    "Application.ConstructorBasicUnderStand.executor": "Run",
-    "Application.D_Abstraction.example1.Main.executor": "Run",
-    "Application.D_Abstraction.example2.Main.executor": "Run",
-    "Application.Demo.executor": "Run",
-    "Application.E_Interface.example1.Main.executor": "Run",
-    "Application.E_Interface.example2.Main.executor": "Run",
-    "Application.Encapsulation.Main.executor": "Run",
-    "Application.Inheritance.multiLevel.Example2.Main.executor": "Run",
-    "Application.Inheritance.multiLevel.Main.executor": "Run",
-    "Application.Inheritance.singelLevel.Example1.Main.executor": "Run",
-    "Application.Inheritance.singleLevel.Main.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MainDeprecated.executor": "Run",
-    "Application.MainPolymorphism.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "java-unit2/oops",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/credo-java-course/core-java-course/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BasicClassunderstand.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClassandObjects.innerclass.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConstructorBasicUnderStand.executor&quot;: &quot;Run&quot;,
+    &quot;Application.D_Abstraction.example1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.D_Abstraction.example2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E_Interface.example1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E_Interface.example2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Encapsulation.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Inheritance.multiLevel.Example2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Inheritance.multiLevel.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Inheritance.singelLevel.Example1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Inheritance.singleLevel.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainDeprecated.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainPolymorphism.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;java-unit2/oops&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/credo-java-course/core-java-course/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="D_Abstraction.example1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="D_Abstraction.example1.Main" />
@@ -216,7 +214,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/E_Interface/example2/Main.java</url>
           <line>22</line>
-          <properties class="E_Interface.example2.Main" method="main">
+          <properties class="E_Interface.example2.Main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
