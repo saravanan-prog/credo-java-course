@@ -1,0 +1,8 @@
+package common.calc;
+
+public class Calculator {
+
+    public double add(int a, int b){
+        return a+b;
+    }
+}
