@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="15cd7575-0860-4964-bbff-93c1b9a546f4" name="Changes" comment="Initial Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstProgram.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,11 +21,16 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="java-unit6/collectionFramework" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="3BU6DQw3SYN87XwPfcwja2TK8gK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -35,15 +41,24 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AdditionProgram.executor": "Run",
     "Application.Demo.executor": "Run",
+    "Application.FileConcept.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "java-unit7/file-iopackage",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/credo-java-course/core-java-course/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Demoprogram">
+  <component name="RunManager" selected="Application.FileConcept">
+    <configuration name="AdditionProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdditionProgram" />
+      <module name="core-java-course" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo" />
       <module name="core-java-course" />
@@ -58,6 +73,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FileConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Filehandling.FileConcept" />
+      <module name="core-java-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Filehandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="core-java-course" />
@@ -67,6 +95,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileConcept" />
+        <item itemvalue="Application.AdditionProgram" />
         <item itemvalue="Application.Demoprogram" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Main" />
