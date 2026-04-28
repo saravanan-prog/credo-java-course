@@ -1,8 +1,6 @@
 package serialization;
 
-import java.io.FileOutputStream;
-import java.io.ObjectOutputStream;
-import java.io.Serializable;
+import java.io.*;
 
 class Employee implements Serializable {
     int empNo;
@@ -29,6 +27,17 @@ public class Main {
 
             System.out.println("Employee file is created and data added");
 
+            // Deserialization
+
+            FileInputStream file = new FileInputStream("employeeFile.txt");
+            ObjectInputStream in = new ObjectInputStream(file);
+
+            Employee s = (Employee) in.readObject();
+
+            System.out.println(s.empNo + " " + s.empName);
+
+            in.close();
+            file.close();
 
 
 
